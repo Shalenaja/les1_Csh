@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\bin\Debug\net6.0\Example003_1 Sum double.exe
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\bin\Debug\net6.0\Example003_1 Sum double.deps.json
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\bin\Debug\net6.0\Example003_1 Sum double.runtimeconfig.json
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\bin\Debug\net6.0\Example003_1 Sum double.dll
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\bin\Debug\net6.0\Example003_1 Sum double.pdb
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\obj\Debug\net6.0\Example003_1 Sum double.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\obj\Debug\net6.0\Example003_1 Sum double.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\obj\Debug\net6.0\Example003_1 Sum double.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\obj\Debug\net6.0\Example003_1 Sum double.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\obj\Debug\net6.0\Example003_1 Sum double.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\obj\Debug\net6.0\Example003_1 Sum double.dll
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\obj\Debug\net6.0\refint\Example003_1 Sum double.dll
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\obj\Debug\net6.0\Example003_1 Sum double.pdb
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\obj\Debug\net6.0\Example003_1 Sum double.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example003_1 Sum double\obj\Debug\net6.0\ref\Example003_1 Sum double.dll
