@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\obj\Debug\net6.0\Example 009.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\obj\Debug\net6.0\Example 009.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\obj\Debug\net6.0\Example 009.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\obj\Debug\net6.0\Example 009.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\obj\Debug\net6.0\Example 009.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\bin\Debug\net6.0\Example 009.exe
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\bin\Debug\net6.0\Example 009.deps.json
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\bin\Debug\net6.0\Example 009.runtimeconfig.json
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\bin\Debug\net6.0\Example 009.dll
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\bin\Debug\net6.0\Example 009.pdb
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\obj\Debug\net6.0\Example 009.dll
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\obj\Debug\net6.0\refint\Example 009.dll
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\obj\Debug\net6.0\Example 009.pdb
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\obj\Debug\net6.0\Example 009.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ\3. Си шарп\1. Lesson\Example 009\obj\Debug\net6.0\ref\Example 009.dll
